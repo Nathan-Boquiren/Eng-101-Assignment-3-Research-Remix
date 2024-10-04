@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Intro to Coding"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ecmel.vscode-html-css"
+		]
+	}
+}
